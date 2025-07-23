@@ -38,4 +38,4 @@ Este é um sistema simples de caixa desenvolvido em Java, com interface gráfica
 2. Compile todas as classes Java:
 
 ```bash
-javac *.java
+java
